@@ -1,0 +1,231 @@
+*{
+    font-family:Helvetica Neue;
+    margin:0;
+    padding:0;
+}
+
+/***for header***/
+
+.header_row{
+    background-color:#3A5A97;
+    height:83px;
+    width:100%;
+}
+
+.logo{
+    float:left;
+    padding-left:9%;
+    padding-top:30px
+}
+
+
+form label{
+    color:white;
+    font-size:12px;
+}
+form a{
+    color:#9cb4d8;
+    font-size:12px
+}
+.login_form{
+    margin-top:20px;
+    padding-right:14%;
+    float:right;
+}
+
+
+.login{
+    margin:5px 0 0 10px;
+}
+.login_btn{
+    width:50px;
+    margin-top:20px;
+    color:white;
+    margin-left:15px
+}
+
+
+
+/***for main***/
+.title1{
+    font-size:36px;
+    font-weight:bold;
+}
+.title2{
+    font-size:19px;
+    margin-top:12px;
+}
+
+.main{
+    background-color:#E9EBEE;
+    height:540px;
+}
+
+.main_left{
+    float:left;
+    padding-left:5%;
+}
+.main_left img{
+    width:350px;
+}
+
+.main_right{
+    width:420px;
+    float:right;
+    padding-right:10%;
+    padding-top:30px;
+}
+
+/*** sign up form ***/
+
+.main_right p{
+    padding-top:15px
+}
+
+.signup{
+    padding-top:10px;
+}
+
+form input[type="text"]{
+    width: 178px;
+    height: 27px;
+    margin-right: 6px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+    font-size: 18px;
+    padding: 5px;
+    border:solid 3px #FFF;
+}
+
+.long_form input[type="text"]{
+    width:366px;
+}
+
+
+.email{
+    float:left;
+}
+.email input{
+    width:150px;
+    height:22px;
+}
+
+.password{
+    float:left;
+}
+
+.password input{
+    width:150px;
+    height:22px;
+}
+
+.btn{
+    float:left;
+    background-color:#4867ad;
+    border:solid 2px #4867ad;
+    border-radius: 5px;
+    height:25px;
+}
+
+/*** sign up form ***/
+.birthday{
+    clear:both;
+    padding-top:20px;
+    width:400px;
+    font-size:18px;
+    font-weight:normal;
+}
+
+.birthday_select{
+    margin-top:10px;
+}
+.birthday_day{
+    float:left;
+    width:50px;
+    height:35px;
+}
+
+.birthday_month{
+    float:left;
+    width:65px;
+    height:35px;
+}
+
+.birthday_year{
+    float:left;
+    width:60px;
+    height:35px;
+}
+.birthdayInf{
+    float:left;
+    width:155px;
+    margin-left:10px
+}
+
+.gender_form{
+    clear: both;
+    margin-top:55px;
+    margin-left:5px;
+}
+.gender_form span{
+    margin-right:17px;
+}
+
+.policy{
+    font-size:11px;
+    color:#777;
+}
+
+.signup_button{
+    margin-top:21px;
+    width:195px;
+    height:42px;
+    background-color: #6AA258;
+    font-size:19px;
+    color:white;
+    border-radius: 5px;
+}
+
+footer{
+    position:relative;
+    clear:both;
+    overflow: hidden;
+}
+
+.footer_container{
+    margin-top:80px;
+    margin-left:10%;
+}
+
+.links{
+    margin-bottom:10px;
+}
+.links li{
+    float:left;
+    font-size:12px;
+    padding-right:10px;
+    list-style: none;
+    line-height: 1.6em;
+}
+
+.sites{
+    overflow:hidden;
+    clear: both;
+}
+
+.sites li{
+    padding-left:0px;
+    padding-right:20px;
+}
+
+.container-border{
+    clear:both;
+    margin-top:11px;
+    border:solid 0.5px #DDDFE2;
+}
+
+.trademark{
+    clear:both;
+    font-size:11px;
+    padding-top:25px;
+}
